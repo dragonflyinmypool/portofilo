@@ -42,9 +42,6 @@ h1 {
     margin-bottom: 15px;
 }
 
-h1:hover {
-	color: purple;
-}
 
 h3 {
 	margin-block-end: .1em;
@@ -67,6 +64,8 @@ p {
 /*Menu Page Tags*/
 .menu {
 	margin-bottom: 30px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
 }
 .menu a {
 	margin-top: 10px;
