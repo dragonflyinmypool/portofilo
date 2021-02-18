@@ -6,20 +6,22 @@
 
 a:link {
     text-decoration: none;
+    color: gray;
 }
 
 a:visited {
     text-decoration: none;
-    color: purple;
+    color: gray;
 }
 
 a:hover {
     text-decoration: none;
-    color: purple;
+    color: white;
 }
 
 a:active {
     text-decoration: none;
+    color: grey;
 }
 
 img, div {
@@ -47,12 +49,15 @@ h1:hover {
 h3 {
 	margin-block-end: .1em;
 	font-size: 20px;
+	color:green;
 }
 
 body {
 	padding-left: 1.5%;
 	padding-right: 1%;
 	max-width: 650px;
+	background-color: black;
+	color: white;
 }
 
 p {
