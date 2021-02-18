@@ -65,7 +65,6 @@ p {
 .menu {
 	margin-bottom: 30px;
 	display: grid;
-	grid-template-columns: 1fr 1fr;
 }
 .menu a {
 	margin-top: 10px;
